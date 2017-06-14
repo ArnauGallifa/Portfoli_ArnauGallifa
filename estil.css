@@ -1,0 +1,175 @@
+body {
+    margin: -10px 10px 10px -10px;
+    width: 2405px;
+    height: 1080px;
+    background-color: #211f24;
+    overflow-y: hidden;
+}
+
+
+.name{
+    top: 434px;
+    position: absolute;
+    color: white;
+    font-family: myFirstFont;
+    left: 30px;
+    font-size: 50px;
+}
+
+
+.about{
+    position: absolute;
+    width: 180px;
+    top: 434px;
+    color: white;
+    left: 2160px;
+    font-size: 50px;
+    font-family: myFirstFont;
+}
+
+.about:hover{
+    text-decoration: underline;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(BebasNeue.otf);
+}
+
+.contact{
+    width: 300px;
+    left: -12px;
+    top: 899px;
+    position: absolute;
+    
+    
+    
+}
+
+.quad1{
+    margin: 0px 305px;
+    width: 300px;
+    height: 2000px;
+    background-image:url(Media/Imatges/In3d1.PNG);
+    background-repeat: no-repeat;
+    background-position: -659px 0px ;
+    background-size: 1750px;
+    position: absolute;
+    
+}
+
+
+.quad1:hover{
+    transition: 0.2s ease-out;
+    background-image: url(Media/Imatges/In3d2.jpg);
+   
+}
+
+.quad2{
+    margin: 0px 605px;
+    width: 300px;
+    height: 2000px;
+    background-image: url(Media/Imatges/pistaaa.jpg);
+    background-repeat: no-repeat;
+    background-position: -449px -100px ;
+    background-size: 1300px;
+    position: absolute;
+    
+    
+}
+
+.quad2:hover{
+    transition: 0.2s ease-out;
+    background-image:url(Media/Imatges/pistaaa1.jpg);
+}
+
+.quad3{
+    margin: 0px 905px;
+    width: 300px;
+    height: 2000px;
+    background-image: url(Media/Imatges/Inani1.png);
+    background-repeat: no-repeat;
+    background-position: -120px 0px ;
+    background-size: 1010px;
+    position: absolute;
+    
+}
+
+.quad3:hover{
+    transition: 0.2s ease-out;
+    background-image: url(Media/Imatges/Inani2.png);
+   
+}
+
+.quad4{
+    margin: 0px 1205px;
+    width: 300px;
+    height: 2000px;
+    background-image: url(Media/Imatges/Inilu1.jpg);
+    background-repeat: no-repeat;
+    background-position: -827px -170px ;
+    background-size: 1900px;
+    position: absolute;
+    
+}
+
+.quad4:hover{
+    transition: 0.2s ease-out;
+    background-image:url(Media/Imatges/Inilu2.jpg);
+}
+
+.quad5{
+    margin: 0px 1505px;
+    width: 300px;
+    height: 2000px;
+    background-image: url(Media/Imatges/Inrig1.PNG);
+    background-repeat: no-repeat;
+    background-position: -295px 0px ;
+    background-size: 810px;
+    position: absolute;
+    
+}
+
+.quad5:hover{
+    transition: 0.2s ease-out;
+    background-image:url(Media/Imatges/Inrig2.png);
+}
+
+.quad6{
+    margin: 0px 1805px;
+    width: 300px;
+    height: 2000px;
+    background-image: url(Media/Imatges/InCSS1.png);
+    background-repeat: no-repeat;
+    background-position: -725px 0px ;
+    background-size: 1375px;
+    position: absolute;
+    
+}
+
+.quad6:hover{
+    transition: 0.2s ease-out;
+    background-image:url(Media/Imatges/InCSS2.png);
+}
+
+.quad7{
+    width: 2120px;
+    height: 200px;
+    margin-top: 1010px;
+    background-color: #211f24;
+    position:absolute;
+    
+}
+
+
+p.text1, p.text2, p.text3, p.text4, p.text5, p.text6 {
+    
+text-align: center;
+margin-top: 500px;
+font-family: myFirstFont;
+color: white;
+font-size: 45px;
+    
+}
+
+

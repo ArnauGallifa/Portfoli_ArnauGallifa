@@ -1,0 +1,308 @@
+.body1 {
+    background-color:#211f24;
+    
+}
+
+.lel{
+    top: 38px;
+    left: 40px;
+    width: 900px; 
+    position: absolute;
+    
+}
+
+
+.sketchfab-embed-wrapper{
+    top: 38px;
+    left: 1000px;
+    position: absolute;
+    
+    
+}
+
+.lul{
+    top: 540px;
+    left: 40px;
+    width: 900px;
+    position: absolute;
+
+    
+}
+
+
+.sketchfab-embed-wrapper1{
+    top: 540px;
+    left: 1000px;
+    position: absolute;
+    
+}
+
+
+
+
+.lol{
+    top: 1130px;
+    left: 40px;
+    width: 900px;
+    position: absolute;   
+}
+
+.sketchfab-embed-wrapper2{
+    top: 1130px;
+    left: 1000px;
+    position: absolute;
+    
+}
+
+.lil{
+    top: 1730px;
+    left: 40px;
+    width: 900px;
+    position: absolute;
+    margin-bottom: 5px;
+}
+
+.lal{
+    top: 1730px;
+    left: 1000px;
+    width: 839px;
+    position: absolute;
+
+}
+
+.final{
+    width: 845px;
+    height: 53px;
+    top: 2233px;
+    left: 999px;
+    position: absolute;
+    background-color: #211f24;
+    
+}
+
+
+.fletxa{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-image: url(Media/Imatges/fletxa.png);
+    background-size: 25px;
+    
+}   
+
+.fletxa:hover {
+  background-image: url(Media/Imatges/fletxa1.png);
+}
+
+
+
+
+.body2 {
+    background-color:#211f24;    
+}
+
+
+#Video1{
+    
+     position:absolute;        
+     width:900px;
+     left: 30px;
+     top: 40px;
+    
+}
+
+#Video2{
+    
+     position:absolute;       
+     width:900px;
+     top: 40px;
+     left: 980px;
+    
+}
+
+#Video3{
+    
+     position:absolute;       
+     width:900px;
+     top: 607px;
+     left: 30px;
+    margin-bottom: 40px;
+}
+
+#Video4{
+    
+     position:absolute;       
+     width:900px;
+     top: 600px;
+     left: 975px;
+    
+}
+
+
+
+
+
+.body3 {
+    background-color: #211f24;
+}
+
+.ilu1{
+    top: 40px;
+    left: 30px;
+    width: 900px; 
+    position: absolute;
+    
+}
+
+
+.ilu2{
+    top: 40px;
+    left: 955px;
+    width: 900px;
+    position: absolute;
+
+    
+}
+
+
+.ilu3{
+    top: 580px;
+    left: 30px;
+    width: 900px;
+    position: absolute;   
+}
+
+
+.ilu4{
+    top: 580px;
+    left: 955px;
+    width: 900px;
+    position: absolute;
+}
+
+.ilu5{
+    top: 1270px;
+    left: 90px;
+    width: 335px;
+    position: absolute;
+
+}
+
+.ilu6{
+    width: 335px;
+    top: 1270px;
+    left: 530px;
+    position: absolute;
+    
+}
+
+#Video6{
+    
+     position:absolute;       
+     width:900px;
+     top: 1270px;
+     left: 955px;
+    margin-bottom: 30px;
+    
+}
+
+
+.body4 {
+    background-color: #211f24;
+}
+
+.lig1{
+    top: 40px;
+    left: 30px;
+    width: 900px; 
+    position: absolute;
+    
+}
+
+
+.lig2{
+    top: 40px;
+    left: 955px;
+    width: 900px;
+    position: absolute;
+
+    
+}
+
+
+.lig3{
+    top: 610px;
+    left: 30px;
+    width: 900px;
+    position: absolute;   
+}
+
+
+.lig4{
+    top: 610px;
+    left: 955px;
+    width: 900px;
+    position: absolute;
+    margin-bottom: 30px;
+}
+
+
+.body5 {
+    background-color: #211f24;
+}
+
+#Video5{
+    
+     position:absolute;       
+     width:900px;
+     top: 480px;
+     left: 600px;
+     margin-bottom: 30px;
+    
+}
+
+
+.rig{
+  width: 950px;
+  top: 40px;
+  left: 30px;
+  position: absolute;
+    
+}
+
+.rig1{
+  width: 810px;
+  top: 40px;
+  left: 1030px;
+  position: absolute;
+    
+}
+
+
+.body6 {
+    background-color: #211f24;
+}
+
+
+#Video7{
+    
+     position:absolute;        
+     width:900px;
+     left: 30px;
+     top: 40px;
+    
+}
+
+#Video8{
+    
+     position:absolute;       
+     width:913px;
+     top: 40px;
+     left: 965px;
+    
+}
+
+.skill{
+    width: 600px;
+    margin-left: 650px;
+}

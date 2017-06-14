@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>PORTFOLI - Arnau Gallifa</title>
+        <link href="estil.css" rel="stylesheet" style="text/css"></link> 
+    </head>
+    <body>
+        
+        
+        <p class="name">ARNAU GALLIFA</p>
+        <p class="about" onclick="go_about()">ABOUT ME</p>
+        
+        
+        <img class="contact" src="Media/Imatges/contacte.png">
+        
+        <div class="quad1" onclick="go_3D()"><p class="text1">3D</p></div>
+        <div class="quad2" onclick="go_animation()"><p class="text2">Animation</p></div>
+        
+        <div class="quad3" onclick="go_ilustration()"><p class="text3">Ilustration</p></div>
+        
+        <div class="quad4" onclick="go_lighting()"><p class="text4">Lighting</p></div>
+        
+        <div class="quad5" onclick="go_rigging()"><p class="text5">Rigging</p></div>
+        
+        <div class="quad6" onclick="go_CSSandHTML()"><p class="text6">CSS and HTML</p></div>
+        
+        <div class="quad7"></div>
+        
+        <script>document.getElementsByTagName('body')[0].addEventListener('mousewheel', function(e) {this.scrollLeft -= (e.wheelDelta);e.preventDefault();}, false);
+        </script>
+        
+        <script src="js/java.js"></script>
+        
+    </body>
+</html>
